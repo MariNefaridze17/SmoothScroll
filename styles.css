@@ -337,7 +337,7 @@
     background: rgb(238,174,202);
 background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
 }
-.fa-palette{
+.fa-palette ,.fa-users{
     font-size: 12rem;
 }
 #card-2{
@@ -386,7 +386,7 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 
         width: 250px;
         height: 250px;
     }
-    .fa-palette{
+    .fa-palette,.fa-users{
         font-size: 4rem;
     }
     .main_content h1{
